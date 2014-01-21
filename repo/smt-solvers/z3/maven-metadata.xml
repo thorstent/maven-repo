@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>smt-solvers</groupId>
+  <artifactId>z3</artifactId>
+  <versioning>
+    <release>4.3.1</release>
+    <versions>
+      <version>4.3.1</version>
+    </versions>
+    <lastUpdated>20140121101207</lastUpdated>
+  </versioning>
+</metadata>
